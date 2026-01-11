@@ -4430,7 +4430,7 @@ $(document).ready(function () {
        CA BUTTON LOGIC
        ========================================= */
   const $caBtn = $("#ca-btn");
-  const contractAddress = "0xcomingsoon";
+  const contractAddress = "0x40d2db47ad563ca3e11d3990944dccd3419a37cd";
   let isCopied = false;
 
   // 1. Hover Logic (Desktop Only)
