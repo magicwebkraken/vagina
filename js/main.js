@@ -4381,7 +4381,7 @@ $(document).ready(function () {
 
     $("#btn-no").on("click", function () {
       handleLoaderResponse(
-        "Read the lore and do not fumble the next Pepe",
+        "Read the lore and do not fumble the next testicle",
         false
       );
     });
@@ -4420,7 +4420,7 @@ $(document).ready(function () {
 
     $("#btn-no").on("click", function () {
       handleLoaderResponse(
-        "Read the lore and do not fumble the next Pepe",
+        "Read the lore and do not fumble the next testicle",
         false
       );
     });
